@@ -1,0 +1,5 @@
+MONGO_URL=mongodb+srv://mehtaGang:1234@cluster0.aktdp.mongodb.net/e-com?retryWrites=true&w=majority
+PORT=4000
+STRIPE_KEY=sk_test_51Kjc1ISEgDIvF2THLgfZlhusIS8ArzKR1P60nooUaN8iieC8j7h6ef4ORZNK8aGphveyLuYbq21CidrAC5HqWNuB002yKSs7xK
+JWT_SEC=dRgUjXn2r5u8x/A?D(G+KbPeShVmYp3s
+PASS_SEC=iQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXI
